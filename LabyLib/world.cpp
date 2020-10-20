@@ -175,7 +175,7 @@ std::pair<int, int> World::CheckPosition(
 	std::pair<int, int> end) const
 {
 	// TODO: done
-	return { };
+	return {};
 }
 
 char World::GetTile(std::pair<int, int> xy) const
